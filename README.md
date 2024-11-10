@@ -34,7 +34,7 @@ This project takes two unique and powerful approaches:
 ### Classification Results
 
 Here's an image showcasing sample outputs from the classification results:
-![Classification Results](assets\QR_version_2\predictions.png)
+![Classification Results](assets/QR_version_2/predictions.png)
 
 ### Example Visuals
 
